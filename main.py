@@ -129,3 +129,4 @@ plt.savefig("model_output.png")
 print("\n📸 Image saved as model_output.png ✅")
 #Samyak
 #chikuu
+#Chikuu1
