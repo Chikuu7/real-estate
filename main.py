@@ -126,4 +126,6 @@ plt.tight_layout()
 # Save image
 plt.savefig("model_output.png")
 
-print("\n📸 Image saved as model_output.png ✅")S
+print("\n📸 Image saved as model_output.png ✅")
+#Samyak
+#chikuu
